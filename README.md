@@ -1,6 +1,6 @@
 # Hello, geeks! 👋
 
-I am Nitesh kumar Gupta. I have strong communication professional with a Bachelor of Technology focused in mechanical  engineering from _ Institute of Aeronautical Engineering, Hyderabad_. I am an experienced developer skilled in python, scala, Machine learning, Deep Learning, Big Data, AIops its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops.
+I am Nitesh kumar Gupta. I have strong communication professional with a Bachelor of Technology focused in mechanical  engineering from _ Institute of Aeronautical Engineering, Hyderabad_. I am an experienced developer skilled in python, scala, Machine learning, Deep Learning, Big Data, AIops and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops.
 
 ### 😄 Pronouns
 he/him
@@ -16,7 +16,7 @@ The flow will be made end-to-end in the near  future.
 
 
 ### ⚡ One line that describes me best? 
-An ambitious guy who loves to cook fries, day dream at nights and sometime codes too.😉😉
+An ambitious guy who loves to code for interesting and ML embedded applications.
 
 ### 📫 How to reach me?
 - [Twitter](https://twitter.com/garingh128) 
