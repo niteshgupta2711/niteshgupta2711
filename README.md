@@ -1,8 +1,10 @@
 # Hello, geeks! 👋
+![](https://komarev.com/ghpvc/?username=guptanitesh2711)
 
 I am Nitesh kumar Gupta. I have strong communication professional with a Bachelor of Technology focused in mechanical  engineering from _ Institute of Aeronautical Engineering, Hyderabad_. I am an experienced developer skilled in python, scala, Machine learning, Deep Learning, Big Data, AIops and its frameworks. My activities are much beyond my stream of education. ⚡ I am involved in a lot of *organizational works* in college related to clubs, hackathons, fests and workshops.
 
 ### 😄 Pronouns
+
 he/him
 
 ### 🌱 What do I do and What have I done? 
@@ -19,38 +21,16 @@ The flow will be made end-to-end in the near  future.
 An ambitious guy who loves to code for interesting and ML embedded applications.
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/garingh128) 
-- [LinkedIn](https://www.linkedin.com/in/garima-singh-34042a177/) 
-- [My personal portfolio](http://garimasingh.me) 
-- My personal blog- [Garima Codes](https://garimasingh.netlify.app/)
-- [Medium](https://medium.com/@garingh128)
-- [Sourcerer](https://sourcerer.io/garimasingh128)
+- [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gupta-6847b9218/) 
 
 You can ask me anything (within reason). I am looking forward to absorb knowledge🧠,gain experience 🏭, collaborate🤝 and build amazing products 🏭for the world🌍!
 
 
-<p align="center"> 
-  Visitors count<br>
-  <img src="https://profile-counter.glitch.me/garimasingh128/count.svg" />
-</p>
-
-<img src="stats.gif" width="90%"><br/><br/>
-
-***
-
-
-
-<!--
-**garimasingh128/garimasingh128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on research paper
+- 🌱 I’m currently learning AIops
+- 👯 I’m looking to collaborate on [LinkedIn](https://www.linkedin.com/in/nitesh-kumar-gupta-6847b9218/) 
+
 -->
